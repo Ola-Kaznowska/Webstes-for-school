@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme+Expanded:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme+Expanded:wght@300&family=Delicious+Handrawn&display=swap');
+ .body {
+  font-family: 'Anton', sans-serif;
+font-family: 'Stick No Bills', sans-serif;
+ }  
+  #calaStrona {
+    width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #ffffff63;
+  }
+   
+   
+   
+  #logo {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   
+   
+  #Navigation{
+    width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    text-align: center;
+    color: rgb(252, 10, 10);
+   }
+
+   .One-edition {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Stick No Bills', sans-serif;
+    color: rgb(32, 255, 2);
+   }
+
+  .Two-edition {
+    font-family: 'Anton', sans-serif;
+    color: #ff0000;
+  }
+
+
+  .Contact {
+    font-family: 'BioRhyme Expanded', serif;
+    font-family: 'Delicious Handrawn', cursive;
+    color: #481fcf;
+    }
+
+
+    .Send {
+      color: #ff0000;
+      padding:20px;
+      border-color: #52f321;
+      font-size: 30px;
+      transition: 0.2s;
+      background-color: transparent;
+      border-radius: 3em;
+      cursor: pointer;
+  }
+  
+  
+  button:hover {
+      color: #fff;
+      background: #3d21f3;
+      box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+  }
+
+  li {
+   
+    display: inline;
+    letter-spacing:1px;
+    padding:10px;
+   }
+   
+   
+  a {
+    font-family: 'Anton', sans-serif;
+    color: #ff0000;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+   
+  }
+   
+  a:hover {
+    color: #cc3333;
+    }
+   
+   
+  #baner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+    border-radius:10px;
+    
+    }
+   
+  p {
+    text-align: center;
+    }
+   
+   
+ 
+   
+  form {
+    margin-top: 20px;
+    width: 400px;
+   
+  }
+  form input,form select{
+   
+    width:330px;
+    height: 35px;
+    font-size:20px;
+   
+  }
+   
+  textarea{
+    width: 330px;
+    font-size:20px;
+    resize: none;
+   
+  }
+   
+  label{
+   
+    font-size: 18px;
+  }
+   
+   
+  fieldset{
+   
+    padding:20px;
+    margin-bottom:10px;
+   
+  }
+   
+  legend{
+    font-size:30px;
+  }
+   
+   
+   
+  #przycisk{
+    width:150px;
+    height:60px;
+    background-color: #1f1a34;
+    color: white;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 4px;
+    letter-spacing:1px;
+    border: 2px solid #1f1a34;
+    text-transform:uppercase;
+   
+  }
+   
+   
+  #przycisk:hover {
+    background-color: white; 
+    color: black;
+    cursor:pointer;
+   
+   
+  }
+   
+   
+   
+  .dwieKolumny
+  {
+    width:50%;
+    float:left;
+   
+  }
+   
